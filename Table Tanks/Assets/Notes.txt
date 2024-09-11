@@ -1,0 +1,17 @@
+To-Do:
+
+Coding:
+* Add Camera Controller
+* Add Tile-Selector
+* Add Basic-Tank Mover
+* Add chunk based island generation for much bigger islands.
+* Add multi-threading to mesh generation
+* Add object culling for vegitation objects
+* Add individual texture combiner for terrain texture map
+
+Art:
+* Add variations of all vegitation types
+* Add variating tile arts (ex: grass tile with flowers)
+
+Rendering:
+* Fix shadows for web-gl rendering

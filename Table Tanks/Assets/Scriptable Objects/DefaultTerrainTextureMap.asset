@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c63150c69d4b75544a3c2fb3a76578ec, type: 3}
+  m_Name: DefaultTerrainTextureMap
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: f902d5fd419e62649a61e1da35a98d63, type: 3}
+  pixelPadding: 1
+  rows: 3
+  columns: 3
+  tiles:
+  - landType: 1
+    capUVTile:
+      x: 1
+      y: 1
+      raiseBottomAmount: 0
+    wallTopUVTile:
+      x: 1
+      y: 2
+      raiseBottomAmount: 0.75
+    wallMiddleUVTile:
+      x: 1
+      y: 3
+      raiseBottomAmount: 0.75
+    wallBottomUVTile:
+      x: 1
+      y: 3
+      raiseBottomAmount: 0.75
+  - landType: 2
+    capUVTile:
+      x: 2
+      y: 1
+      raiseBottomAmount: 0
+    wallTopUVTile:
+      x: 2
+      y: 2
+      raiseBottomAmount: 0.75
+    wallMiddleUVTile:
+      x: 2
+      y: 3
+      raiseBottomAmount: 0.75
+    wallBottomUVTile:
+      x: 2
+      y: 3
+      raiseBottomAmount: 0.75
+  - landType: 3
+    capUVTile:
+      x: 3
+      y: 1
+      raiseBottomAmount: 0
+    wallTopUVTile:
+      x: 3
+      y: 2
+      raiseBottomAmount: 0.75
+    wallMiddleUVTile:
+      x: 3
+      y: 3
+      raiseBottomAmount: 0.75
+    wallBottomUVTile:
+      x: 3
+      y: 3
+      raiseBottomAmount: 0.75

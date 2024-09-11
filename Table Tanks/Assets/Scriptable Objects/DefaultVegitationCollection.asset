@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e89d070ff916e514fa86f8ec128d68a2, type: 3}
+  m_Name: DefaultVegitationCollection
+  m_EditorClassIdentifier: 
+  vegitationList:
+  - type: 1
+    prefab: {fileID: 4763604001300200029, guid: bbbc7a948866d594cbc136fa0ca4e5f6,
+      type: 3}
+  - type: 2
+    prefab: {fileID: 171488002816000307, guid: 3262a65ab02a5bd4981e5b339a32328a, type: 3}
+  - type: 3
+    prefab: {fileID: 4962792584392872688, guid: 3bb2d01e060deee46b25e137347eefe1,
+      type: 3}
